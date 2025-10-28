@@ -8,7 +8,7 @@ Follow the simple steps below 👇
 ## 🚀 Step 1 – Start Google Cloud Shell
 Open Google Cloud Shell by clicking this link:
 
-🔗 [https://shell.cloud.google.com/?fromcloudshell=true&show=terminal&pli=1](https://shell.cloud.google.com/?fromcloudshell=true&show=terminal&pli=1)
+🔗 [https://shell.cloud.google.com/](https://shell.cloud.google.com/?fromcloudshell=true&show=terminal&pli=1)
 
 This will open a terminal window directly in your browser — no installation required.
 
